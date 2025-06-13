@@ -6,6 +6,11 @@
             "code_url": "https://github.com/Fedict/eid-mw"
         },
         {
+            "project": "SHACL Validator",
+            "owner": "FPS BOSA",
+            "code_url": "https://github.com/Fedict/shaclvalidator"
+        },
+        {
             "project": "iA.Vision",
             "owner": "IMIO",
             "code_url": "https://gitlab.imio.be/odoo/ia.vision"
