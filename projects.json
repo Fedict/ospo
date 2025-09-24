@@ -14,6 +14,11 @@
             "project": "iA.Vision",
             "owner": "IMIO",
             "code_url": "https://gitlab.imio.be/odoo/ia.vision"
+        },
+        {
+            "project": "Délibération.be",
+            "owner": "IMIO",
+            "code_url": "https://github.com/IMIO/buildout.pm.portal"
         }
     ]
 }
