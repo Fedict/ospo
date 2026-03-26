@@ -21,8 +21,8 @@
             "code_url": "https://github.com/IMIO/buildout.pm.portal"
         },
         {
-            "project": "WOW-BE",
-            "owner": "RMI",
+            "project": "WOW-BE Reboot",
+            "owner": "RMI/KMI/IRM",
             "code_url": "https://github.com/rmibelgium/wowbe"
         }
     ]
