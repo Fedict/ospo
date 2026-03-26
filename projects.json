@@ -19,6 +19,11 @@
             "project": "Délibérations.be",
             "owner": "IMIO",
             "code_url": "https://github.com/IMIO/buildout.pm.portal"
+        },
+        {
+            "project": "WOW-BE",
+            "owner": "RMI",
+            "code_url": "https://github.com/rmibelgium/wowbe"
         }
     ]
 }
