@@ -24,6 +24,11 @@
             "project": "WOW-BE Reboot",
             "owner": "RMI/KMI/IRM",
             "code_url": "https://github.com/rmibelgium/wowbe"
+        },
+        {
+            "project": "Comunica",
+            "owner": "Comunica Association",
+            "code_url": "https://github.com/comunica/comunica"
         }
     ]
 }
