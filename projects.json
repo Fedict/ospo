@@ -27,8 +27,13 @@
         },
         {
             "project": "Comunica",
-            "owner": "Comunica Association / Ghent University - IMEC",
+            "owner": "Comunica Association, Ghent University, IMEC",
             "code_url": "https://github.com/comunica/comunica"
+        },
+        {
+            "project": "QDOAS",
+            "owner": "BIRA/IASB",
+            "code_url": "https://github.com/UVVIS-BIRA-IASB/qdoas"
         }
     ]
 }
