@@ -10,6 +10,11 @@
             "owner": "FPS BOSA",
             "code_url": "https://github.com/Fedict/shaclvalidator"
         },
+        {  
+            "project": "eTranslation Proxy",
+            "owner": "FPS BOSA",
+            "code_url": "https://github.com/Fedict/etranslation-proxy"
+        },
         {
             "project": "iA.Vision",
             "owner": "IMIO",
