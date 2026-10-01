@@ -44,6 +44,11 @@
             "project": "Orthanc",
             "owner": "UCLouvain",
             "code_url": "https://orthanc.uclouvain.be/hg/orthanc/file/tip"
+        },
+        {
+            "project": "OSERIT",
+            "owner": "Royal Belgian Institute of Natural Sciences",
+            "code_url": "https://github.com/naturalsciences/OSERIT-drift"
         }
     ]
 }
