@@ -49,6 +49,11 @@
             "project": "Orthanc",
             "owner": "UCLouvain",
             "code_url": "https://orthanc.uclouvain.be/hg/orthanc/file/tip"
+        },
+        {
+            "project": "JDemetra+",
+            "owner": "National Bank of Belgium",
+            "code_url": "https://github.com/jdemetra/jdplus-main"
         }
     ]
 }
